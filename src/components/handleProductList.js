@@ -1,11 +1,11 @@
 import instance from "../apis";
-
+import { router } from "../utils/common";
 
 const handleProductList = async () => {
   try {
     const productList = document.getElementById("productList");
     const { data } = await instance.get("/products");
-    console.log(data);
+    
     const contentHTML = data
       .map(
         (item) => /*html*/ `

@@ -55,6 +55,11 @@
       "email": "cuongbvph39353@fpt.edu.vn",
       "password": "$2a$10$FFhx5lPxk.u6EVbtLzQQ2e0AGAOTLGK7EZ/kvdw.GzEPA0ktpwzBm",
       "id": 11
+    },
+    {
+      "email": "vietcuong@gmail.com",
+      "password": "$2a$10$IIyriX8yB9N4gOLnS67p3OsKwGeAdZfmLs94oddE5DDtM2kIbipdK",
+      "id": 12
     }
   ],
   "products": [
